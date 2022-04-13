@@ -1,0 +1,1 @@
+SELECT * from student WHERE Roll=1;
