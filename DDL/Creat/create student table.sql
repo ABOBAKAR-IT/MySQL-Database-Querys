@@ -1,0 +1,1 @@
+create table student (Roll int identity (1,1) primary key, Name varchar(50),Class varchar(10),Address varchar(20),Grade varchar(5),marks int);
