@@ -1,0 +1,1 @@
+UPDATE student SET Name='ABOBAKAR' WHERE Roll=1
