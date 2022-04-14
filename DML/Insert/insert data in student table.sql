@@ -1,4 +1,4 @@
-INSERT INTO student (Name,Class,Address,Grade,marks) values
+INSERT INTO student1 (Name,Class,Address,Grade,marks) values
  ('ABOBAKAR','BSIT','Wazirabad','A+',95),
 ('Tayyab','BSIT','Gujrat','A+',99),
 ('Hamza','BSIT','Lala musa','A',91),
