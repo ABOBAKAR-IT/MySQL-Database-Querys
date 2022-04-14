@@ -1,0 +1,1 @@
+ALTER TABLE student1 ADD total varchar(20);

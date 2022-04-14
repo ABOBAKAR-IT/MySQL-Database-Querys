@@ -1,0 +1,1 @@
+ALTER TABLE student1 DROP COLUMN total;
